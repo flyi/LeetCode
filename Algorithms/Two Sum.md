@@ -10,9 +10,9 @@
 >>return [0, 1].
 
 
-## My solution with C++:
+## My solutions:
 
-'''
+```C++
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) 
@@ -32,4 +32,4 @@ public:
         return map;
     }
 };
-'''
+```
