@@ -7,7 +7,7 @@
 
 ###LeetCode problembs' solutions with C++/Python
  	
-| # | Title | Difficulty | My solutions |
+| # | Title | Difficulty | Tags | My solutions |
 |---|-------|------------|------------|-------------|
-| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium |[C++/Python](https://github.com/flyi/LeetCode/blob/master/Algorithms/2.%20Add%20Two%20Numbers.md) |
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [C++/Python](https://github.com/flyi/LeetCode/blob/master/Algorithms/1.Two%20Sum.md) |
+| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | Array, Hash Table |[C++/Python](https://github.com/flyi/LeetCode/blob/master/Algorithms/2.%20Add%20Two%20Numbers.md) |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | Linked List, Math | [C++/Python](https://github.com/flyi/LeetCode/blob/master/Algorithms/1.Two%20Sum.md) |
