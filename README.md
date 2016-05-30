@@ -9,6 +9,7 @@
  	
 | # | Title | Difficulty | Tags | My solutions |
 |---|-------|------------|------------|-------------|
+| 326 | [Power of Three](https://leetcode.com/problems/power-of-three/) | Easy | Math | [C++](https://github.com/flyi/LeetCode/blob/master/Algorithms/326. Power of Three.md) |
 | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | Easy | Bit Manipulation | [C++](https://github.com/flyi/LeetCode/blob/master/Algorithms/191. Number of 1 Bits.md) |
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | Easy | Math | [C++](https://github.com/flyi/LeetCode/blob/master/Algorithms/7. Reverse Integer.md) |
 | 6 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | Easy | String | [C++](https://github.com/flyi/LeetCode/blob/master/Algorithms/6. ZigZag Conversion.md) |
