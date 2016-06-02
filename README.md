@@ -16,6 +16,7 @@
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | Easy | Math | [C++/Python](https://github.com/flyi/LeetCode/blob/master/Algorithms/7. Reverse Integer.md) |
 | 6 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | Easy | String | [C++](https://github.com/flyi/LeetCode/blob/master/Algorithms/6. ZigZag Conversion.md) |
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Medium | String | [C++](https://github.com/flyi/LeetCode/blob/master/Algorithms/5. Longest Palindromic Substring.md) |
+| 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard | Binary Search, Array, Divide and Conquer | [C++](https://github.com/flyi/LeetCode/blob/master/Algorithms/4. Median of Two Sorted Arrays.md) |
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | Hash Table, Two Pointers, String | [C++](https://github.com/flyi/LeetCode/blob/master/Algorithms/3. Longest Substring Without Repeating Characters.md) |
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | Linked List, Math | [C++/Python](https://github.com/flyi/LeetCode/blob/master/Algorithms/2. Add Two Numbers.md) |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | Array, Hash Table | [C++/Python](https://github.com/flyi/LeetCode/blob/master/Algorithms/1. Two Sum.md) |
