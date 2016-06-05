@@ -11,6 +11,7 @@
 |---|-------|------------|------------|-------------|
 | 326 | [Power of Three](https://leetcode.com/problems/power-of-three/) | Easy | Math | [C++](https://github.com/flyi/LeetCode/blob/master/Algorithms/326. Power of Three.md) |
 | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | Easy | Bit Manipulation | [C++](https://github.com/flyi/LeetCode/blob/master/Algorithms/191. Number of 1 Bits.md) |
+| 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | String | [C++](https://github.com/flyi/LeetCode/blob/master/Algorithms/14. Longest Common Prefix.md) |
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | Easy | Math, String | [C++](https://github.com/flyi/LeetCode/blob/master/Algorithms/13. Roman to Integer.md) |
 | 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | Medium | Math, String | [C++](https://github.com/flyi/LeetCode/blob/master/Algorithms/12. Integer to Roman.md) |
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium | Array, Two Pointers | [C++](https://github.com/flyi/LeetCode/blob/master/Algorithms/11. Container With Most Water.md) |
@@ -23,3 +24,4 @@
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | Hash Table, Two Pointers, String | [C++](https://github.com/flyi/LeetCode/blob/master/Algorithms/3. Longest Substring Without Repeating Characters.md) |
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | Linked List, Math | [C++/Python](https://github.com/flyi/LeetCode/blob/master/Algorithms/2. Add Two Numbers.md) |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | Array, Hash Table | [C++/Python](https://github.com/flyi/LeetCode/blob/master/Algorithms/1. Two Sum.md) |
+
