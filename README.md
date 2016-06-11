@@ -11,6 +11,7 @@
 |---|-------|------------|------------|-------------|
 | 326 | [Power of Three](https://leetcode.com/problems/power-of-three/) | Easy | Math | [C++](https://github.com/flyi/LeetCode/blob/master/Algorithms/326. Power of Three.md) |
 | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | Easy | Bit Manipulation | [C++](https://github.com/flyi/LeetCode/blob/master/Algorithms/191. Number of 1 Bits.md) |
+| 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | Linked List | [C++](https://github.com/flyi/LeetCode/blob/master/Algorithms/21. Merge Two Sorted Lists.md) |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | Stack, String | [C++](https://github.com/flyi/LeetCode/blob/master/Algorithms/20. Valid Parentheses.md) |
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Easy | Linked List, Two Pointers | [C++](https://github.com/flyi/LeetCode/blob/master/Algorithms/19. Remove Nth Node From End of List.md) |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | String | [C++](https://github.com/flyi/LeetCode/blob/master/Algorithms/14. Longest Common Prefix.md) |
