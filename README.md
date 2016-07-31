@@ -11,6 +11,7 @@
 |---|-------|------------|------------|-------------|
 | 326 | [Power of Three](https://leetcode.com/problems/power-of-three/) | Easy | Math | [C++](https://github.com/flyi/LeetCode/blob/master/Algorithms/326. Power of Three.md) |
 | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | Easy | Bit Manipulation | [C++](https://github.com/flyi/LeetCode/blob/master/Algorithms/191. Number of 1 Bits.md) |
+| 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | Easy | Array, Two Pointers | [C++](https://github.com/flyi/LeetCode/blob/master/Algorithms/27. Remove Element.md) |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | Array, Two Pointers | [C++](https://github.com/flyi/LeetCode/blob/master/Algorithms/26. Remove Duplicates from Sorted Array.md) |
 | 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | Easy | Linked List | [C++](https://github.com/flyi/LeetCode/blob/master/Algorithms/24. Swap Nodes in Pairs.md) |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | Linked List | [C++](https://github.com/flyi/LeetCode/blob/master/Algorithms/21. Merge Two Sorted Lists.md) |
