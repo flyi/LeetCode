@@ -11,6 +11,7 @@
 |---|-------|------------|------------|-------------|
 | 326 | [Power of Three](https://leetcode.com/problems/power-of-three/) | Easy | Math | [C++](https://github.com/flyi/LeetCode/blob/master/Algorithms/326. Power of Three.md) |
 | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | Easy | Bit Manipulation | [C++](https://github.com/flyi/LeetCode/blob/master/Algorithms/191. Number of 1 Bits.md) |
+| 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | Easy | Dynamic Programming | [C++](https://github.com/flyi/LeetCode/blob/master/Algorithms/70. Climbing Stairs.md) |
 | 38 | [Count and Say](https://leetcode.com/problems/count-and-say/) | Easy | String | [C++](https://github.com/flyi/LeetCode/blob/master/Algorithms/38. Count and Say.md) |
 | 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | Easy | Two Pointers, String | [C++](https://github.com/flyi/LeetCode/blob/master/Algorithms/28. Implement strStr().md) |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | Easy | Array, Two Pointers | [C++](https://github.com/flyi/LeetCode/blob/master/Algorithms/27. Remove Element.md) |
