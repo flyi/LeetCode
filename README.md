@@ -11,6 +11,7 @@
 |---|-------|------------|------------|-------------|
 | 326 | [Power of Three](https://leetcode.com/problems/power-of-three/) | Easy | Math | [C++](https://github.com/flyi/LeetCode/blob/master/Algorithms/326. Power of Three.md) |
 | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | Easy | Bit Manipulation | [C++](https://github.com/flyi/LeetCode/blob/master/Algorithms/191. Number of 1 Bits.md) |
+| 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | Easy | Tree, Depth-first Search | [C++](https://github.com/flyi/LeetCode/blob/master/Algorithms/100. Same Tree) |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Easy | Array, Two Pointers | [C++](https://github.com/flyi/LeetCode/blob/master/Algorithms/88. Merge Sorted Array.md) |
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | Easy | Dynamic Programming | [C++](https://github.com/flyi/LeetCode/blob/master/Algorithms/70. Climbing Stairs.md) |
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | Easy | Math, String | [C++](https://github.com/flyi/LeetCode/blob/master/Algorithms/67. Add Binary.md) |
@@ -37,5 +38,6 @@
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | Hash Table, Two Pointers, String | [C++](https://github.com/flyi/LeetCode/blob/master/Algorithms/3. Longest Substring Without Repeating Characters.md) |
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | Linked List, Math | [C++/Python](https://github.com/flyi/LeetCode/blob/master/Algorithms/2. Add Two Numbers.md) |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | Array, Hash Table | [C++/Python](https://github.com/flyi/LeetCode/blob/master/Algorithms/1. Two Sum.md) |
+
 
 
