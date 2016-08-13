@@ -11,6 +11,8 @@
 |---|-------|------------|------------|-------------|
 | 326 | [Power of Three](https://leetcode.com/problems/power-of-three/) | Easy | Math | [C++](https://github.com/flyi/LeetCode/blob/master/Algorithms/326. Power of Three.md) |
 | 299 | [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) | Easy | Hash Table | [C++](https://github.com/flyi/LeetCode/blob/master/Algorithms/299. Bulls and Cows.md) |
+| 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Easy | Array, Two Pointers | [C++](https://github.com/flyi/LeetCode/blob/master/Algorithms/283. Move Zeroes.md) |
+| 258 | [Add Digits](https://leetcode.com/problems/add-digits) | Easy | Math | [C++](https://github.com/flyi/LeetCode/blob/master/Algorithms/258. Add Digits.md) |
 | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | Easy | Bit Manipulation | [C++](https://github.com/flyi/LeetCode/blob/master/Algorithms/191. Number of 1 Bits.md) |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | Easy | Tree, Depth-first Search | [C++](https://github.com/flyi/LeetCode/blob/master/Algorithms/100. Same Tree) |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Easy | Array, Two Pointers | [C++](https://github.com/flyi/LeetCode/blob/master/Algorithms/88. Merge Sorted Array.md) |
