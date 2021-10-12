@@ -21,6 +21,7 @@
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | Easy | Math, String | [C++](https://github.com/flyi/LeetCode/blob/master/Algorithms/67.%20Add%20Binary.md) |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | Easy | Array, Math | [C++](https://github.com/flyi/LeetCode/blob/master/Algorithms/66.%20Plus%20One.md) |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | Easy | String | [C++](https://github.com/flyi/LeetCode/blob/master/Algorithms/58.%20Length%20of%20Last%20Word.md)
+| 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | String | [Python](https://github.com/flyi/LeetCode/blob/master/Algorithms/49.%20Group%20Anagrams.md) |
 | 38 | [Count and Say](https://leetcode.com/problems/count-and-say/) | Easy | String | [C++](https://github.com/flyi/LeetCode/blob/master/Algorithms/38.%20Count%20and%20Say.md) |
 | 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | Easy | Two Pointers, String | [C++](https://github.com/flyi/LeetCode/blob/master/Algorithms/28.%20Implement%20strStr().md) |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | Easy | Array, Two Pointers | [C++](https://github.com/flyi/LeetCode/blob/master/Algorithms/27.%20Remove%20Element.md) |
@@ -33,7 +34,7 @@
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | Easy | Math, String | [C++](https://github.com/flyi/LeetCode/blob/master/Algorithms/13.%20Roman%20to%20Integer.md) |
 | 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | Medium | Math, String | [C++](https://github.com/flyi/LeetCode/blob/master/Algorithms/12.%20Integer%20to%20Roman.md) |
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium | Array, Two Pointers | [C++/Python](https://github.com/flyi/LeetCode/blob/master/Algorithms/11.%20Container%20With%20Most%20Water.md) |
-| 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Easy | Math | [C++](https://github.com/flyi/LeetCode/blob/master/Algorithms/9.%20Palindrome%20Number.md) |
+| 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Easy | Math | [C++/Python](https://github.com/flyi/LeetCode/blob/master/Algorithms/9.%20Palindrome%20Number.md) |
 | 8 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | Easy | Math, String | [C++/Python](https://github.com/flyi/LeetCode/blob/master/Algorithms/8.%20String%20to%20Integer%20(atoi).md) |
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | Easy | Math | [C++/Python](https://github.com/flyi/LeetCode/blob/master/Algorithms/7.%20Reverse%20Integer.md) |
 | 6 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | Easy | String | [C++/Python](https://github.com/flyi/LeetCode/blob/master/Algorithms/6.%20ZigZag%20Conversion.md) |
